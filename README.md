@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hello! 👋
+### My name is Kian Akhiary and I am a junior at the University of Utah!
+### Want to see my LinkedIn? 
+### Here it is! https://www.linkedin.com/in/kian-akhiary-0aa367257/
+### I'm currently learning about databases, data collection, and computer security.
+### I am also currently seeking an internship for the summer in software development.
 <!--
 **kian29/kian29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

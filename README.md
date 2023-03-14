@@ -1,8 +1,9 @@
-### Hello! 👋
-### My name is Kian Akhiary and I am a junior at the University of Utah!
-### Reach me by email at kian.akhiary@gmail.com or message me on LinkedIn [LinkedIn](https://www.linkedin.com/in/kian-akhiary-0aa367257/)
-### I'm currently learning about databases, data collection, and computer security.
-### I'm also currently seeking an internship for the summer in software development.
+### 👋 Hello my name is Kian Akhiary!
+### :mortar_board: I am currently a junior at the University of Utah!
+### 📫 Reach me by email at kian.akhiary@gmail.com or message me on [LinkedIn](https://www.linkedin.com/in/kian-akhiary-0aa367257/)
+### 💬 Ask me about Java, Python, C#, and C++
+### 🌱 I'm currently learning about databases, data collection, and computer security.
+### 🔭 I'm also currently seeking an internship for the summer in software development.
 <!--
 **kian29/kian29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
